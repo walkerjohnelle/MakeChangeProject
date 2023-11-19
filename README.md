@@ -5,7 +5,7 @@ Opening via terminal:
 
 Clone the Repository:
 
-git clone https://github.com/YOUR_USERNAME/MakeChangeProject.git
+git clone https://github.com/walkerjohnelle/MakeChangeProject.git
 Navigate to the Project Directory:
 
 
